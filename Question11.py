@@ -61,3 +61,4 @@ if age2>=18:
     print("Allow entry")
 else:
     print("Deny Access")
+exit() # i added exit() to prevent the user from continuing
